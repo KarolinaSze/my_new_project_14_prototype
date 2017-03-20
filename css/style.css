@@ -1,0 +1,11 @@
+* {
+    box-sizing:border-box; 
+}
+
+body {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    color: black;
+}
+
